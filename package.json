@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "a": "http-server",
+    "http-server": "http-server dist",
     "start": "webpack serve --mode production",
     "build": "webpack --mode production"
   },

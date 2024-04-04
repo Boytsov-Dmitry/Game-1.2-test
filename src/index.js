@@ -1,2 +1,5 @@
 import './js/app.js';
-import './css/style.css';
+import './style.css';
+import './domain.js';
+import './game.js';
+import './app.js';
